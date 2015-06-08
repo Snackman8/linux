@@ -1548,7 +1548,6 @@ module_platform_driver(axp20x_power_driver);
 
 MODULE_DESCRIPTION("Power supply driver for AXP20x PMICs");
 MODULE_AUTHOR("Bruno Prémont <bonbons at linux-vserver.org>");
-//MODULE_LICENSE("GPL");
-MODULE_LICENSE("GPL v2");
+MODULE_LICENSE("GPL");
 
 MODULE_ALIAS("platform:axp20x-power");
